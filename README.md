@@ -3,7 +3,7 @@
   <a href="https://github.com/matheusdallolmo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusdallolmo&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Matheus Dall olmo github stats" /></a>
   <a href="https://github.com/matheusdallolmo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdallolmo&layout=compact&theme=github_dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdallolmo&layout=compact&theme=buefy&hide_border=true" />
   </a>
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="40" width="80" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
